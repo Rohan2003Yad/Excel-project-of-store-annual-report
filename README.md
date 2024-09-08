@@ -54,4 +54,5 @@ Advanced Analytics: Explore integrating machine learning models or statistical a
 
 **Demo:**
 
+![Dashboard Snapshot](Excel_dashboard.png)
 
